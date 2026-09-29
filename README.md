@@ -1,4 +1,4 @@
-# India Tech Hiring Analytics
+# India Tech Market Analytics
 
 > An end-to-end data analytics project analyzing 97,682 Indian job postings to understand technology hiring, fresher opportunities, skills, salaries, locations, and tech-adjacent roles.
 
